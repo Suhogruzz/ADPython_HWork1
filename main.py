@@ -5,7 +5,7 @@ import datetime
 
 def main():
     date = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    print(f'Время составления заработной платы: {date}')
+    print(f'Время подсчета заработной платы: {date}')
     pass
 
 
